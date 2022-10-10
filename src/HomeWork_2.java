@@ -8,6 +8,7 @@ public class HomeWork_2 {
         float f = .25f;
         double d = .00001234;
         boolean bool = true;
+        //Добавлю комент для изменения, что бы запушить
         System.out.println("The value of the variable b=" + b);
         System.out.println("The value of the variable s=" + s);
         System.out.println("The value of the variable i=" + i);
